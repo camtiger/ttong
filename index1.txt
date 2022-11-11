@@ -1,8 +1,0 @@
-<html>
-<head>
-<body>
-<CENTER><a href="https://open.kakao.com/o/sEEltA9d"><img src="https://pbs.twimg.com/media/FhQphPLUoAAyBs-?format=jpg&amp;name=900x900" alt="클릭시 입장 가능" width="500" height="800"></a>
-<a href="https://t.me/han_tototeacher"><img src="https://pbs.twimg.com/media/FhQpfCpVsAA1lEe?format=jpg&amp;name=900x900" alt="클릭시 입장 가능" width="500" height="800"></a><CENTER>
-</body>
-</head>
-</html>
